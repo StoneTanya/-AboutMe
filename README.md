@@ -20,7 +20,7 @@
 
 ## Связаться со мной:
 <div>
-<a href="https://imgbb.com/" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>&nbsp;
+<a href="https://t.me/VolkTania" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>&nbsp;
 <a href="mailto:kameneva.tania@mail.ru" target="blank"><img src="https://github.com/icons8/flat-color-icons/blob/master/svg/address_book.svg" title="mail" alt="mail" width="40" height="40"/></a>&nbsp;
 </div>
 
