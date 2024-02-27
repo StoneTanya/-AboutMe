@@ -1,11 +1,11 @@
 # Привет! 
 ### Меня зовут Таня, и я начинающий frontend-разработчик. 
 
-👨‍💻 Познакомиться с моими проектами можно <a href="#" target="blank">здесь.</a><br> 
-📄 Мое резюме: 
+👨‍💻 Здесь можно познакомиться с моими проектами.</a><br> 
+📄 Мое резюме: <a href="https://hh.ru/resume/4dd1bc58ff0cd1cb450039ed1f72636e44316c?hhtmFrom=resume_list" target="blank">"клик".</a><br> 
 
 
-## Технологии, которые я использую:
+## Стек:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
