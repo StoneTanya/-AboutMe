@@ -1,9 +1,15 @@
 # Привет! 
-### Меня зовут Таня, и я начинающий frontend-разработчик. 
-
-👨‍💻 Здесь можно познакомиться с моими проектами.</a><br> 
-📄 Мое резюме: <a href="https://hh.ru/resume/4dd1bc58ff0cd1cb450039ed1f72636e44316c?hhtmFrom=resume_list" target="blank">"клик".</a><br> 
-
+<div style="display: flex;">
+<img align="right" width="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dtNXAyNDh6dWZ0eWczeW0wazc1ZjdyOGxnZnBkM29mazVodTNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"/>
+<div align="left">
+  <h3>Меня зовут Таня, и я начинающий веб-разработчик </h3> 
+  ⚡ Я прошла обучение на курсе по frontend-разработке и теперь я открыта к настоящим вызовам, интересным задачам и проектам.<br>
+  💡 Сейчас я также в процессе изучения продвинутых возможностей React.<br>
+  👨‍💻 Здесь можно познакомиться с моими проектами и резюме. ⬇️ <br> 
+  <br> 
+  📄 Резюме: <a href="https://hh.ru/resume/4dd1bc58ff0cd1cb450039ed1f72636e44316c?hhtmFrom=resume_list" target="blank"><img src="https://img.shields.io/badge/hh-red?logo=headHunter&logoColor=white alt="headHunter Badge"/></a><br> 
+</div>
+</div>
 
 ## Стек:
 <div>
@@ -21,7 +27,6 @@
 ## Связаться со мной:
 <div>
 <a href="https://t.me/VolkTania" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>&nbsp;
-<a href="mailto:kameneva.tania@mail.ru" target="blank"><img src="https://github.com/icons8/flat-color-icons/blob/master/svg/address_book.svg" title="mail" alt="mail" width="40" height="40"/></a>&nbsp;
 </div>
 
 
