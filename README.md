@@ -1,6 +1,5 @@
 # Привет! 
 <div style="display: flex;">
-<img align="right" width="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dtNXAyNDh6dWZ0eWczeW0wazc1ZjdyOGxnZnBkM29mazVodTNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"/>
 <div align="left">
   <h3>Меня зовут Таня, я frontend-разработчик </h3> 
   ⚡ Я прошла обучение на курсе по frontend-разработке и теперь я открыта к настоящим вызовам, интересным задачам и проектам.<br>
